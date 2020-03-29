@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTS TUGAS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LOGIN">Enter</string>
+    <string name="MASUK">Submit</string>
+    <string name="Wisata">Wisata Kota Yogyakarta</string>
+    <string name="Output">Hasil</string>
+    <string name="KLANGON">
+        Nama asli dari Bukit Klangon ini adalah Wisata Alam Bukit Glagaharjo, tetpi para pengguna media sosial biasa menyebutnya Bukit Klangon. Bukit Klangon mendapatkan donasi pengembangan wisata minat khusus oleh Riotary International. Bukit Klangon ini termasuk wisata yang baru yang sedang terkenal baru-baru ini. Meski baru dikenal obyek wisata ini sebenarnya sudah dibuka untuk umum pada tahun 2011 yang lalu
+    </string>
+</resources>
